@@ -19,7 +19,7 @@ padding: 0;
 }
 
 a {
-  dispalay:flex;
+  display: flex;
   flex-direction: column;
   align-items: center;
   color:#76a500;
